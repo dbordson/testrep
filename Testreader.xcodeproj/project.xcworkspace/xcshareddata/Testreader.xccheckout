@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3BC918C3-6C11-4C82-82B8-5EDD4BF91CC7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Testreader</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7EC49899-8D24-4CD1-A37B-91FC5013071D</key>
+		<string>https://github.com/dbordson/testrep.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Testreader.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7EC49899-8D24-4CD1-A37B-91FC5013071D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dbordson/testrep.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7EC49899-8D24-4CD1-A37B-91FC5013071D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7EC49899-8D24-4CD1-A37B-91FC5013071D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>testrep2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -53,7 +53,7 @@
       </MacroExpansion>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "$(srcroot)/Users/David/Desktop/Testreader/helloxml2.py"
+            argument = "$(SRCROOT)/helloxml2.py"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
